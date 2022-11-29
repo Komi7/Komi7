@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi , I'm Shousuke Komi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
  <h1 align="center"> <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?multiline=true&lines=Linux+user+,+Learning+coding">
+  <img src="https://readme-typing-svg.herokuapp.com?multiline=true&lines=+.+.+.+.+.+.+.+.+.+Linux+user+">
   </h1>
  
 </p>
