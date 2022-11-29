@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
       <a href="https://discord.com/channels/@me/724963674477035561" target="blank"><img align="center"
          src="https://img.shields.io/badge/-Discord-blue.svg?style=for-the-badge&logo=Discord&logoColor=white""
          alt="komii" height="30"/></a>
-      <a href="https://instagram.com/shousuke.komii" target="blank"><img align="center"
+      <a href="https://instagram.com/pxlediit" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="komii" height="30"/></a>
          
