@@ -38,4 +38,8 @@ You can click the Preview link to take a look at your changes.
          
 <p align="center">     
 <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=1&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=++Mail+%3A+shousuke%40naver.com" alt="Typing SVG" />
-      
+     
+  ***     
+       
+<p align="center">  <h2> Current WM, Distro :  
+       <img src="https://img.shields.io/badge/Hyprland%20%20%20%20Arch%20-informational" alt="snake" /></a> 
