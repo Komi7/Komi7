@@ -41,5 +41,29 @@ You can click the Preview link to take a look at your changes.
      
   ***     
        
-<p align="center">  <h2> Current WM, Distro :  
-       <img src="https://img.shields.io/badge/Hyprland%20%20%20%20Arch%20-informational" alt="snake" /></a> 
+       
+       
+       
+  <h1 <p align="center">  
+       
+  Current wm, distro & etc  </h1>
+       
+    
+       
+ 
+
+ 
+       
+       
+<div>
+
+<table align=center><tr><td>
+<b>- Operating System: </b><a href="https://archlinux.org">archlinux</a><br />
+<b>- Window Manager: </b><a href="https://github.com/hyprwm/Hyprland">Hyprland</a><br />
+<b>- Terminal: </b><a href="https://github.com/alacritty/alacritty">Alacritty</a><br />
+<b>- Shell: </b><a href="https://www.zsh.org">ZSH</a><br />
+<b>- Editor: </b><a href="https://neovim.io/">neovim</a><br />
+<b>- GPU: </b><a href="https://www.nvidia.com">Nvidia</a><br /></table>
+       </div>
+ 
+
