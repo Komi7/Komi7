@@ -18,6 +18,18 @@ You can click the Preview link to take a look at your changes.
        alt="snake" /></a>
 </div>
 
+       
+       
+       
+       
+<p align="right"><strong><samp>」</samp></strong></p>
+
+<br>
+
+<details>
+<summary><samp><b>More Info</b></samp></summary>
+
+
 
   <summary>☎️ contact me</summary>
 <div>
@@ -76,3 +88,15 @@ A[Linux] --> B((Arch))
 A --> C(Ubuntu for server)
 B -- Gpu passth + WIN  --> D{Happy!}
 C --> D
+```
+       
+       
+       
+       
+       
+       
+       
+       
+
+</details>
+</div>
