@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
     <h2 align="center">😎 you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="https://t.me/pxledit" target="blank"><img align="center"
+      <a href="https://t.me/realmiless" target="blank"><img align="center"
          src="https://img.shields.io/badge/-Telegram-brightgreen.svg?style=for-the-badge&logo=Telegram&logoColor=white"
          alt="komii" height="30"/></a>
       <a href="https://discord.com/channels/@me/724963674477035561" target="blank"><img align="center"
@@ -45,6 +45,9 @@ You can click the Preview link to take a look at your changes.
          alt="komii" height="30"/></a>
       <a href="https://instagram.com/pxlediit" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="komii" height="30"/></a>
+      <a href="https://signal.org/install" target="blank"><img align="center"
+         src="https://img.shields.io/badge/signal-%23E4405F.svg?style=for-the-badge&logo=signal&logoColor=white"
          alt="komii" height="30"/></a>
          
          
