@@ -73,8 +73,8 @@ You can click the Preview link to take a look at your changes.
 <div>
 
 <table align=center><tr><td>
-<b>- Operating System: </b><a href="https://archlinux.org">archlinux</a><br />
-<b>- Window Manager: </b><a href="https://github.com/hyprwm/Hyprland">Hyprland</a><br />
+<b>- Operating System: </b><a href="https://nixos.org/">NixOS</a><br />
+<b>- Window Manager: </b><a href="https://github.com/baskerville/bspwm">Bspwm</a><br />
 <b>- Terminal: </b><a href="https://github.com/alacritty/alacritty">Alacritty</a><br />
 <b>- Shell: </b><a href="https://www.zsh.org">ZSH</a><br />
 <b>- Editor: </b><a href="https://neovim.io/">neovim</a><br />
@@ -83,21 +83,12 @@ You can click the Preview link to take a look at your changes.
  
 ***
     
-       
-       
-//```mermaid
-//graph LR
-//A[Linux] --> B((Arch))
-//A --> C(Ubuntu for server)
-//B -- Gpu passth + WIN  --> D{Happy!}
-//C --> D
-//```
+
        
        
        
        
-       
-       
+   
        
        
 
