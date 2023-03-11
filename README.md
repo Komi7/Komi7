@@ -85,13 +85,13 @@ You can click the Preview link to take a look at your changes.
     
        
        
-```mermaid
-graph LR
-A[Linux] --> B((Arch))
-A --> C(Ubuntu for server)
-B -- Gpu passth + WIN  --> D{Happy!}
-C --> D
-```
+//```mermaid
+//graph LR
+//A[Linux] --> B((Arch))
+//A --> C(Ubuntu for server)
+//B -- Gpu passth + WIN  --> D{Happy!}
+//C --> D
+//```
        
        
        
