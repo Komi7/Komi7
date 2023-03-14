@@ -73,7 +73,6 @@ You can click the Preview link to take a look at your changes.
 <div>
 
 <table align=center><tr><td>
-![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 <b>- Operating System: </b><a href="https://nixos.org/">NixOS</a><br />
 <b>- Window Manager: </b><a href="https://github.com/baskerville/bspwm">Bspwm</a><br />
 <b>- Terminal: </b><a href="https://github.com/alacritty/alacritty">Alacritty</a><br />
@@ -89,7 +88,7 @@ You can click the Preview link to take a look at your changes.
        
        
        
-   
+ ![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
        
        
 
