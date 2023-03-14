@@ -88,8 +88,6 @@ You can click the Preview link to take a look at your changes.
        
        
        
- ![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
-       
        
 
 </details>
