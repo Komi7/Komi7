@@ -94,6 +94,7 @@ You can click the Preview link to take a look at your changes.
 </div>
        
       
- ![hippo](https://github.com/Komi7/resources/blob/main/spider-man.gif)
+ ![MEME](https://github.com/Komi7/resources/blob/main/spider-man.gif)
+ 
        
 
