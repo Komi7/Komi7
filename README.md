@@ -95,7 +95,6 @@ You can click the Preview link to take a look at your changes.
        
       
  ![MEME](https://github.com/Komi7/resources/blob/main/spider-man.gif)
- ![YOUTUBE LINK](https://youtu.be/0Zzh7jLQ4SQ)
- 
+ <a href="https://youtu.be/0Zzh7jLQ4SQ">YOUTUBE LINK</a>
        
 
