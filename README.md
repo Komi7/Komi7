@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-  <img  src="https://github.com/Komi7/resources/blob/main/img/grid-snake.svg"
+<img  src="https://github.com/Komi7/resources/blob/main/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -93,8 +93,5 @@ You can click the Preview link to take a look at your changes.
 </details>
 </div>
        
-      
- ![MEME](https://github.com/Komi7/resources/blob/main/spider-man.gif)
- <a href="https://youtu.be/0Zzh7jLQ4SQ">YOUTUBE LINK</a>
        
 
