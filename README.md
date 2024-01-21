@@ -37,13 +37,13 @@ You can click the Preview link to take a look at your changes.
     <h2 align="center">😎 you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="https://t.me/realmiless" target="blank"><img align="center"
+      <a href="https://t.me/imshosuke" target="blank"><img align="center"
          src="https://img.shields.io/badge/-Telegram-brightgreen.svg?style=for-the-badge&logo=Telegram&logoColor=white"
          alt="komii" height="30"/></a>
       <a href="https://discord.com/channels/@me/724963674477035561" target="blank"><img align="center"
          src="https://img.shields.io/badge/-Discord-blue.svg?style=for-the-badge&logo=Discord&logoColor=white""
          alt="komii" height="30"/></a>
-      <a href="https://instagram.com/pxlediit" target="blank"><img align="center"
+      <a href="https://instagram.com/imshosuke" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="komii" height="30"/></a>
       <a href="https://signal.org/install" target="blank"><img align="center"
@@ -73,12 +73,11 @@ You can click the Preview link to take a look at your changes.
 <div>
 
 <table align=center><tr><td>
-<b>- Operating System: </b><a href="https://nixos.org/">NIXOS</a><br />
+<b>- Operating System: </b><a href="https://archlinux.org/">ARCHLINUX</a><br />
 <b>- Window Manager: </b><a href="https://github.com/hyprwm/Hyprland">Hyprland</a><br />
-<b>- Terminal: </b><a href="https://github.com/alacritty/alacritty">Alacritty</a><br />
+<b>- Terminal: </b><a href="https://sw.kovidgoyal.net/kitty/">Kitty</a><br />
 <b>- Shell: </b><a href="https://www.zsh.org">ZSH</a><br />
 <b>- Editor: </b><a href="https://neovim.io/">Neovim</a><br />
-<b>- GPU: </b><a href="https://www.nvidia.com">Nvidia</a><br /></table>
        </div>
  
 ***
