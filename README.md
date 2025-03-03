@@ -37,9 +37,6 @@ You can click the Preview link to take a look at your changes.
     <h2 align="center">😎 you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="https://t.me/imshosuke" target="blank"><img align="center"
-         src="https://img.shields.io/badge/-Telegram-brightgreen.svg?style=for-the-badge&logo=Telegram&logoColor=white"
-         alt="komii" height="30"/></a>
       <a href="https://discord.com/channels/@me/724963674477035561" target="blank"><img align="center"
          src="https://img.shields.io/badge/-Discord-blue.svg?style=for-the-badge&logo=Discord&logoColor=white""
          alt="komii" height="30"/></a>
